@@ -12,5 +12,8 @@ Git Training Certificate
 
 <img src="https://github.com/Pampita22/5418911_Pampita_Bhowmik/blob/main/CERTIFICATE/Git_Training.png?raw=true" alt="Git Training Certificate" width="400">
 
+[📜 View Git Training Certificate](https://github.com/Pampita22/5418911_Pampita_Bhowmik/blob/main/CERTIFICATE/Git_Training.pdf)
+
+
 
 
