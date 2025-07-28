@@ -1,8 +1,8 @@
-\# 5418911\_Pampita\_Bhowmik
+#5418911_Pampita Bhowmik
+Agile course quiz Screenshot
 
-!\[Agile Quiz](https://github.com/Pampita22/5418911\_Pampita\_Bhowmik/blob/main/SDLC/agile%20quiz.png?raw=true)
+<img src="https://github.com/Pampita22/5418911_Pampita_Bhowmik/blob/main/SDLC/agile_quiz.png?raw=true" alt="Agile Quiz" width="400">
 
-<img src="https://github.com/Pampita22/5418911\_Pampita\_Bhowmik/blob/main/SDLC/agile%20quiz.png?raw=true" alt="Agile Quiz">
 
 
 
