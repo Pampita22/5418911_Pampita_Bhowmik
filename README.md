@@ -8,4 +8,9 @@ Course Completion Screenshot
 
 <img src="https://github.com/Pampita22/5418911_Pampita_Bhowmik/blob/main/SDLC/course_completion.png?raw=true" alt="Course Completion" width="400">
 
+Git Training Certificate
+
+<img src="https://github.com/Pampita22/5418911_Pampita_Bhowmik/blob/main/CERTIFICATE/Git_Training.png?raw=true" alt="Git Training Certificate" width="400">
+
+
 
